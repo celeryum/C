@@ -1,1 +1,1 @@
-idk, my C learning
+idk, my C learning process 
